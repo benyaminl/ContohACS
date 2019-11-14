@@ -19,6 +19,7 @@ namespace ContohACS
 
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Test23");
             MessageBox.Show("Test");
         }
     }
