@@ -19,7 +19,6 @@ namespace ContohACS
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test Benyamin");
             MessageBox.Show("Test");
         }
     }
